@@ -18,11 +18,13 @@ A Java-based Bookstore application with a JavaFX GUI.
 - [Installation](#installation)
 
 ## Features
+<img width="1087" alt="Screen Shot 2023-08-24 at 1 50 14 PM" src="https://github.com/ArmanGrewal03/Bookstore/assets/143025874/ce876b46-3b97-4534-a276-52f11d85eeb1">
 
 - Different login screens for admin and customers.
 - Admin has access to customer and book management, including adding and deleting customers/books.
 - Customers have a ranking system based on points earned from purchases.
 - More purchases result in more points, which can be used to buy books.
+
 
 ## Usage
 
